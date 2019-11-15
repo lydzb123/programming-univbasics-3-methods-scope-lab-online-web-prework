@@ -1,3 +1,3 @@
-ef toadstool
+def toadstool
   puts status
 end
